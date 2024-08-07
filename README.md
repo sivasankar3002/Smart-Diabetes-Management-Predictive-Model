@@ -107,8 +107,4 @@ Copy code
 8. **License:** Specifies the project's license.
 9. **Contact:** Provides contact information for questions or feedback.
 
-### Customization
-
-- **Replace Placeholder Text:** Update placeholders like `https://github.com/yourusername/smart-diabetes-management.git` and `your.email@example.com` with actual values.
-- **Add Additional Sections:** Include any additional sections specific to your project, such as advanced usage, FAQs, or acknowledgments.
 
